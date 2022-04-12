@@ -1,1 +1,1 @@
-# University-Project-Sports-Center-Reservation-System
+# Project-Sports-Center-Reservation-System
